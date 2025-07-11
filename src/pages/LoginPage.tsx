@@ -107,8 +107,8 @@ const LoginPage = () => {
 
           <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
             <div className="text-sm text-gray-600 dark:text-gray-400 space-y-2">
-              <p><strong>Usuário Admin:</strong> webxrio@gmail.com</p>
-              <p><strong>Senha:</strong> 5207417778@#$Deus</p>
+              <p><strong>Usuário @direito reservado:</strong> webxrio</p>
+              <p><strong>Suporte:</strong> 21-97961-8766</p>
             </div>
           </div>
         </div>
